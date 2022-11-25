@@ -1,0 +1,17 @@
+div, p{
+    border:1px black solid;
+    text-align: center;
+    background-color: gainsboro;
+}
+div.row{
+    border: 1px black solid;
+    height: 150px;
+}
+div.col, div.col-4{
+    border:1px black solid;
+    text-align: center;
+    background-color: gainsboro;
+}
+p{
+text-decoration: underline;
+}
